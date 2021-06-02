@@ -5,4 +5,4 @@ Simple piano created using Vanilla JavaScript
 
 [piano.brighamband.com](https://piano.brighamband.com)
 
-[brighamband.github.io/piano](https://brighamband.github.io/piano/index.html)
+[brighamband.github.io/piano](https://brighamband.github.io/piano)
